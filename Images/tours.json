@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "House with Guide",
+    "Details": "Tour of House with Virtual Guide.",
+    "ImageUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/House.png",
+    "TourUrl": "https://teliportme.com/embed/tour/f44e4e78"
+  },
+  {
+    "Name": "Buddha Cave",
+    "Details": "Pin oO Lwin Caves 4 large Buddhas.",
+    "ImageUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/Buddha.png",
+    "TourUrl": "https://teliportme.com/embed/tour/764edeaf"
+  },
+  {
+    "Name": "Mexico Resort",
+    "Details": "Tiki Tuk Resort, Mexico.",
+    "ImageUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/Resort.png",
+    "TourUrl": "https://teliportme.com/embed/tour/93b35571"
+  },
+  {
+    "Name": "Kiribati Beach",
+    "Details": "Kiribati beach and village.",
+    "ImageUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/Kiribati.png",
+    "TourUrl": "https://teliportme.com/embed/tour/fada11f1"
+  },
+  {
+    "Name": "Nauru Pinnacles",
+    "Details": "Pinnacles of Nauru.",
+    "ImageUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/Nauru.png",
+    "TourUrl": "https://teliportme.com/embed/tour/7017f46a"
+  },
+  {
+    "Name": "Villa",
+    "Details": "Tour of Villa.",
+    "ImageUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/Villa.png",
+    "TourUrl": "https://teliportme.com/embed/tour/f44e4e78"
+  }
+]
