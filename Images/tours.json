@@ -1,15 +1,27 @@
 [
   {
+    "Name": "Jaipur",
+    "Details": "Tour of Jaipur",
+    "ImageUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/Jaipur.png",
+    "TourUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/Jaipur.mp4",
+  },
+  {
+    "Name": "Jyothilinga",
+    "Details": "12 Jyothilingas",
+    "ImageUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/Jyothirlingas.png",
+    "TourUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/Jyothirlingas.mp4",
+  },
+  {
+    "Name": "Shakthipeetha",
+    "Details": "51 Shakthipeethas",
+    "ImageUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/Shakthipeethas.png",
+    "TourUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/Shakthipeethas.mp4",
+  },
+  {
     "Name": "House with Guide",
     "Details": "Tour of House with Virtual Guide.",
     "ImageUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/House.png",
     "TourUrl": "https://teliportme.com/embed/tour/f44e4e78"
-  },
-  {
-    "Name": "Buddha Cave",
-    "Details": "Pin oO Lwin Caves 4 large Buddhas.",
-    "ImageUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/Buddha.png",
-    "TourUrl": "https://teliportme.com/embed/tour/764edeaf"
   },
   {
     "Name": "Mexico Resort",
@@ -22,12 +34,6 @@
     "Details": "Kiribati beach and village.",
     "ImageUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/Kiribati.png",
     "TourUrl": "https://teliportme.com/embed/tour/fada11f1"
-  },
-  {
-    "Name": "Nauru Pinnacles",
-    "Details": "Pinnacles of Nauru.",
-    "ImageUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/Nauru.png",
-    "TourUrl": "https://teliportme.com/embed/tour/7017f46a"
   },
   {
     "Name": "Villa",
