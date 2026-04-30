@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content=
+        "width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<!--
+Source - https://stackoverflow.com/a/61629185
+Posted by Ravichandran, modified by community. See post 'Timeline' for change history
+Retrieved 2026-04-30, License - CC BY-SA 4.0
+-->
+
+<div id="video-container">
+  <video class="video_player" id="player" width="100%" autoplay="autoplay" playsinline="">
+          <source src="https://media.githubusercontent.com/media/gramajdev/pravas-virtual/main/Images/Jaipur.mp4" />
+        </video>
+  <button id="btn">
+          View Fullscreen!
+        </button>
+</div>
+</body>
+</html>
+
+// Source - https://stackoverflow.com/a/61629185
+// Posted by Ravichandran, modified by community. See post 'Timeline' for change history
+// Retrieved 2026-04-30, License - CC BY-SA 4.0
+
+$(function() {
+  function makeLandscape() {
+    // this works on android, not iOS
+    if (screen.orientation && screen.orientation.lock) {
+      screen.orientation.lock('landscape');
+    }
+  }
+
+  $(document).on('click', '#btn', function() {
+    var element = document.getElementById('video-container');
+    if (element.mozRequestFullScreen) {
+      element.mozRequestFullScreen();
+      makeLandscape();
+    } else if (element.webkitRequestFullScreen) {
+      element.webkitRequestFullScreen();
+      makeLandscape();
+    }
+  });
+});

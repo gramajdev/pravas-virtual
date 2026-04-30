@@ -3,13 +3,13 @@
     "Name": "Jaipur",
     "Details": "Tour of Jaipur",
     "ImageUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/Jaipur.png",
-    "TourUrl": "https://media.githubusercontent.com/media/gramajdev/pravas-virtual/main/Images/Jaipur.mp4"
+    "TourUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/pravas-jaipur.html"
   },
   {
     "Name": "Jyothilinga",
     "Details": "12 Jyothilingas",
     "ImageUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/Jyothirlingas.png",
-    "TourUrl": "https://media.githubusercontent.com/media/gramajdev/pravas-virtual/main/Images/Jyothirlingas.mp4"
+    "TourUrl": "https://raw.githubusercontent.com/gramajdev/pravas-virtual/main/Images/pravas-jyothirlingas.html"
   },
   {
     "Name": "Shakthipeetha",
